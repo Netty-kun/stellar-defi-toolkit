@@ -10,7 +10,6 @@ test_snapshots/
 coverage/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -21,9 +20,6 @@ coverage/
 Thumbs.db
 
 # Environment variables
-.env
-.env.local
-.env.production
 
 # Logs
 *.log
@@ -111,3 +107,4 @@ perf.data.old
 flamegraph.svg
 *.profraw
 *.profdata
+config.bat
